@@ -11,17 +11,17 @@
 
 ### Project Objective: 
 
-UFood is a hypothetical lead food delivery app in Brazil, present in over a thousand cities. The Key Objectives of the project are:
+UFood is a leading food delivery app in Brazil, operating in over a thousand cities. This project aims to enhance the performance of UFood's marketing activities, with a special focus on optimizing marketing campaigns. By exploring and analyzing customer data, the project seeks to provide actionable insights to support more effective budget allocation and strategic decision-making within the marketing department. The key objectives of this project are:
 
-1. Explore the data – don’t just plot means and counts. Provide insights, and define cause and effect. Provide a better understanding of the characteristic features of respondents;
-2. Propose and describe a customer segmentation based on customers behaviors;
-3. Visualize data and provide written reasoning behind discoveries;
+1. Thoroughly explore the data, going beyond simple means and counts to provide in-depth insights, identify cause and effect relationships, and better understand the characteristic features of respondents.
+2. Propose and describe a customer segmentation based on customer behaviors.
+3. Visualize data and provide written reasoning behind the discoveries to improve customer engagement and drive business growth.
 
-Globally, the company had solid revenues and a healthy bottom line in the past 3 years, but the profit growth perspectives for the next 3 years are not promising. For this reason, several strategic initiatives are being considered to invert this situation. One is to improve the performance of marketing activities, with a special focus on marketing campaigns. The marketing department was pressured to spend its annual budget more wisely. Desirably, the success of these activities will prove the value of the approach and convince the more skeptical within the company.
+Globally, UFood has enjoyed solid revenues and a healthy bottom line over the past three years. However, profit growth prospects for the next three years are not promising. To address this, several strategic initiatives are being considered, one of which is to improve the performance of marketing activities. The marketing department is under pressure to spend its annual budget more wisely, with the hope that successful campaigns will demonstrate the value of this approach and convince skeptics within the company.
 
 ### Data Sources:
 
-The primary dataset used for the analysis "imdb_movies.csv" contains information about 4,803 movies. It provides a wide range of details about each movie, including budget, genres, production companies, release date, revenue, runtime, language, popularity, and more.
+The primary dataset used for this analysis is "u_food_marketing.csv." This dataset will be utilized to uncover business opportunities, generate insights, and propose data-driven actions to optimize campaign results and create value for the company.
 
 ### Tools Used:
 
@@ -31,30 +31,23 @@ The primary dataset used for the analysis "imdb_movies.csv" contains information
 
 #### Data Import:
 
-The "u_food_marketing.csv" dataset was imported into Python- Jupyter Notebook.
+The "u_food_marketing.csv" dataset was imported into Python using Jupyter Notebook.
 
 #### Data Cleaning and Preparation: 
 
 - Removing Duplicates
-- No null values were present in the dataset
+- Confirming no null values in the dataset
 - Standardizing Data types
 
 #### Exploratory Data Analysis: 
 
-- Propose and describe a customer segmentation based on customers' behaviors.
-- Visualize data and provide written reasoning behind discoveries.
+- Propose and describe customer segmentation based on customer behaviors.
+- Visualize data to provide insights for improving customer engagement, which is key to growing and solidifying UFood’s position as the market leader.
  
 ### Findings:
 
-- Common Genres: Drama is the most common genre, with the highest number of movies.
-- Budget and Revenue: Adventure has the highest average budget and revenue. It also leads in average profit.
-- Popularity: Adventure is the most popular genre, followed by Science Fiction.
-- Voting Average: Drama has the highest number of movies with a voting average of >=8.
-- Vote Average Correlation: The best movies according to voting average do return high profit and revenue. The correlation between voting average and profit/revenue is positive but not very strong.
-- Popularity Correlation: The best movies according to popularity return high profit and revenue, showing a strong positive correlation.
-- Budget Correlation: Highly budgeted movies tend to return high revenue, profits and have high popularity, the correlation is positive yet not very strong.
+- 
   
 ### References:
 
-1. Kaggle-[Movie Dataset: Budgets, Genres, Insights](https://www.kaggle.com/datasets/utkarshx27/movies-dataset)
-2.  Analyst builder
+1.  Analyst builder
