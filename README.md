@@ -11,7 +11,7 @@
 
 ### Project Objective: 
 
-UFood is an established player in the retail food sector, with hundreds of thousands of registered customers and almost one million consumers served annually. The company offers products across five major categories: wines, rare meat products, exotic fruits, specially prepared fish, and sweet products. These products are sold through three sales channels: physical stores, catalogs, and the company’s website.
+UFood is an established player in the retail food sector and the lead food delivery app in Brazil, present in over a thousand cities. with hundreds of thousands of registered customers and almost one million consumers served annually. The company offers products across five major categories: wines, rare meat products, exotic fruits, specially prepared fish, and sweet products. These products are sold through three sales channels: physical stores, catalogs, and the company’s website.
 
 The key objectives of this project are:
 
