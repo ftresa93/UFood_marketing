@@ -11,7 +11,9 @@
 
 ### Project Objective: 
 
-UFood is a leading food delivery app in Brazil, operating in over a thousand cities. This project aims to enhance the performance of UFood's marketing activities, with a special focus on optimizing marketing campaigns. By exploring and analyzing customer data, the project seeks to provide actionable insights to support more effective budget allocation and strategic decision-making within the marketing department. The key objectives of this project are:
+UFood is an established player in the retail food sector, with hundreds of thousands of registered customers and almost one million consumers served annually. The company offers products across five major categories: wines, rare meat products, exotic fruits, specially prepared fish, and sweet products. These products are sold through three sales channels: physical stores, catalogs, and the company’s website.
+
+The key objectives of this project are:
 
 1. Thoroughly explore the data, going beyond simple means and counts to provide in-depth insights, identify cause and effect relationships, and better understand the characteristic features of respondents.
 2. Propose and describe a customer segmentation based on customer behaviors.
@@ -46,11 +48,12 @@ The "u_food_marketing.csv" dataset was imported into Python using Jupyter Notebo
  
 ### Findings:
 
-- The age group of 31-70 has the highest percentage and amount spent on accepted campaigns, compared to 23-30 and 71-85.
-- As the number of children increases the amount spent and total accepted campaign reduces. 
-- Members with education in graduate, Masters, 2n cycle and PhD spent more than basic spent more amount and accept more campaigns.
-- Marital ststuts does not seem to play a role in amount spent on buying or accepting campaigns
-- Store purchases are the most common method of purchase in customers than web or catalogue. Also, the most campaign accepted are thourgh store purchases.
+- Age Group Spending and Campaign Acceptance: The age group of 31-70 exhibits the highest percentage of accepted campaigns and the highest amount spent, significantly outperforming the 23-30 and 71-85 age groups.
+- Impact of Number of Children: As the number of children in a household increases, both the total amount spent and the number of accepted campaigns decrease.
+- Educational Influence on Spending and Campaign Acceptance: Customers with higher education levels (graduate, Masters, 2nd cycle, and PhD) tend to spend more and accept more campaigns compared to those with basic education. 
+- Marital Status: Marital status does not significantly influence the amount spent on purchases or the acceptance of campaigns
+- Purchase Channels: Store purchases are the most common method of purchase among customers, surpassing web and catalog purchases. Additionally, the majority of accepted campaigns are associated with store purchases.
+- Product Category Spending and Campaign Acceptance: Wine and meat products see the highest amount spent and the highest rate of accepted campaigns compared to other product categories.
   
 ### References:
 
