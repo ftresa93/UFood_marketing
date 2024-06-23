@@ -46,7 +46,11 @@ The "u_food_marketing.csv" dataset was imported into Python using Jupyter Notebo
  
 ### Findings:
 
-- 
+- The age group of 31-70 has the highest percentage and amount spent on accepted campaigns, compared to 23-30 and 71-85.
+- As the number of children increases the amount spent and total accepted campaign reduces. 
+- Members with education in graduate, Masters, 2n cycle and PhD spent more than basic spent more amount and accept more campaigns.
+- Marital ststuts does not seem to play a role in amount spent on buying or accepting campaigns
+- Store purchases are the most common method of purchase in customers than web or catalogue. Also, the most campaign accepted are thourgh store purchases.
   
 ### References:
 
